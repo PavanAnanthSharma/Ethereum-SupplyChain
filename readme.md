@@ -1,5 +1,7 @@
 # Parmigiano Reggiano blockchain
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Description
 
 A supplychain smart contract written in Solidity and deployed on the Rinkeby test network. This Smart contract demonstrates how supplychains can improve authenticity, efficiency and privacy between seller and buyer.
